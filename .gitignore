@@ -1,4 +1,4 @@
-kaggle/*
+kaggle/input/*
 !kaggle/input/.gitkeep
 .DS_Store
 .vscode
