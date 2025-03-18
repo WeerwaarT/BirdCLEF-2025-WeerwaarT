@@ -1,4 +1,4 @@
-data/*
-!data/.gitkeep
+kaggle/*
+!kaggle/.gitkeep
 .DS_Store
 .vscode
