@@ -3,3 +3,4 @@ kaggle/input/*
 .DS_Store
 .vscode
 src/submission.csv
+src/__pycache__
